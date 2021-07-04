@@ -1,17 +1,18 @@
 {
-  "name": "phone-number-info",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "htmlparser2": "^6.1.0",
-    "libphonenumber-js": "^1.9.20",
-    "node-fetch": "^2.6.1"
-  }
+    "name": "phone-number-info",
+    "version": "1.0.1",
+    "description": "Get carrier and owner of a phone number quickly and easily.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "hieyou1",
+    "license": "GPL-3.0-or-later",
+    "dependencies": {
+        "htmlparser2": "^6.1.0",
+        "libphonenumber-js": "^1.9.20",
+        "node-fetch": "^2.6.1"
+    },
+    "repository": "github:hieyou1/phone-number-info"
 }
