@@ -12,7 +12,7 @@
     "dependencies": {
         "htmlparser2": "^7.1.2",
         "libphonenumber-js": "^1.9.20",
-        "node-fetch": "^2.6.1"
+        "node-fetch": "^3.0.0"
     },
     "repository": "github:hieyou1/phone-number-info"
 }
